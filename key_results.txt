@@ -1,0 +1,18 @@
+n_bulletins: 24
+start_date: 14 Nov 2024
+end_date: 01 May 2025
+start_storage_mcm: 1517.0
+end_storage_mcm: 0.0
+start_pct: 100.0
+end_pct: 0.0
+absolute_decline_mcm: 1517.0
+first_zero_date: 24 Apr 2025
+first_below_normal_date: 20 Mar 2025
+normal_start_mcm: 1232.0
+normal_end_mcm: 143.0
+final_normal_gap_mcm: 143.0
+final_normal_pct: 9.4
+final_level_m: 489.8
+frl_m: 496.83
+minimum_current_storage_pct: 0.0
+max_current_storage_mcm: 1517.0
